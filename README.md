@@ -1,3 +1,3 @@
 这个爬虫是用来爬取网页文章的，可以根据网页的具体情况设置一页一页爬去其中的文章，具体的网站、参数可以自己修改。
 
-这个爬虫是用scrapy和python3的，之前那一个爬虫是python2的，python2中有一些库在python3中去掉了，但
+这个爬虫是用scrapy和python3的，之前那一个爬虫是python2的，python2中有一些库在python3中去掉了，SgmlLinkExtractor我并没有在python3中找到比较好的替换方法，所以可能这个爬虫写的有一些繁琐。
